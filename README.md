@@ -1,2 +1,0 @@
-# devCopado
-created for demo
